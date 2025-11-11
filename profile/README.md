@@ -17,4 +17,4 @@
 ### 진행 현황
 | 11/10 | 11/11 | 11/12 | 11/13 | 11/14 | 11/15 | 11/16 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [주사위 게임](https://github.com/action-over-perfection/dice-game) | - | - | - | - | - | - |
+| [주사위 게임](https://github.com/action-over-perfection/dice-game) | [자판기](https://github.com/action-over-perfection/vending-machine) | - | - | - | - | - |
