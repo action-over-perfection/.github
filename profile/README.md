@@ -25,4 +25,8 @@
 ### 진행 현황
 | 11/10 | 11/11 | 11/12 | 11/13 | 11/14 | 11/15 | 11/16 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [주사위 게임](https://github.com/action-over-perfection/dice-game) | [자판기](https://github.com/action-over-perfection/vending-machine) | 오픈미션 재정비 | - | - | - | - |
+| [주사위 게임](https://github.com/action-over-perfection/dice-game) | [자판기](https://github.com/action-over-perfection/vending-machine) | 오픈미션 재정비 | 블로그 프로젝트 세팅<br>블로그 글 리스트 조회, 상세 조회 api 구현 | MySQL 연동 및 Docker 환경 세팅 | 일정상 작업 X | 일정상 작업 X |
+
+| 11/17 | 11/18 | 11/19 | 11/20 | 11/21 | 11/22 | 11/23 |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | - | - | - | - | - | - |
