@@ -6,6 +6,9 @@ https://wateralsie-blog.vercel.app
 
 [기록 및 회고 모음](https://github.com/action-over-perfection/logs-and-reflections) 
 
+https://github.com/user-attachments/assets/26f8a2ea-73a7-41e2-86e5-ececa19a31c2
+
+
 ### 이 프로젝트를 진행하게 된 계기
 무언가를 잘하기 위해 열심히 하려고 하지만, 결국 소극적으로 행동하게 되거나 아예 시작조차 못하게 되는 점이 고민이었어요.<br>
 처음에는 개발 실력이 부족하다는 점이 원인이라고 생각했기 때문에 학습에 집중하기도 했지만 제 모습은 이전과 변함이 없었습니다.<br>
